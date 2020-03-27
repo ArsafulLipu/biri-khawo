@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(7, 7, 7);
 }
 h1{
     font-family: 'Galada', cursive;
@@ -35,4 +35,22 @@ h4{
 }
 .area{
     margin-top: 100px;
+}
+.buy-now-button{
+    background-image:linear-gradient(to bottom, #FF589B 0%,#FF136F 100%);
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+footer{
+    text-align: center;
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+h3{
+    font-family: 'Hind Siliguri', sans-serif;
 }
