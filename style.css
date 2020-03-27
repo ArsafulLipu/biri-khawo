@@ -1,5 +1,5 @@
 body{
-    background-color: gray;
+    background-color: rgb(255, 255, 255);
 }
 h1{
     font-family: 'Galada', cursive;
@@ -22,4 +22,17 @@ h4{
     text-align: center;
     margin-top: 30px;
     background-color: rgb(152, 135, 167);
+}
+.buy{
+    background-image: linear-gradient(180deg, black,red
+
+    );
+    border-radius: 5px;
+    color: azure;
+}
+.container{
+    margin-bottom: 100px;
+}
+.area{
+    margin-top: 100px;
 }
