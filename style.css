@@ -7,6 +7,9 @@ h1{
     text-align: center;
     margin-top: 30px;
     background-color: blanchedalmond;
+    border-radius: 10px;
+    padding: 10px;
+
 }
 .sobuj-text{
     color: green;
@@ -22,6 +25,8 @@ h4{
     text-align: center;
     margin-top: 30px;
     background-color: rgb(152, 135, 167);
+    border-radius: 10px;
+    padding: 10px;
 }
 .buy{
     background-image: linear-gradient(180deg, black,red
@@ -53,4 +58,6 @@ footer{
 }
 h3{
     font-family: 'Hind Siliguri', sans-serif;
+    border-radius: 10px;
+
 }
